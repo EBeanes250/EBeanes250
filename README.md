@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EBeanes250
-- 👀 I’m interested in scraping data in R using the baseballr package (NCAA college stats)
+- 👀 I’m interested in R using the baseballr package (NCAA college stats)
 Any help will be apperceiated.  
 - 📫 How to reach me ethanb28@gmail.com
 
